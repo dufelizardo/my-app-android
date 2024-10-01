@@ -1,5 +1,5 @@
 # MY APP - Android
-
+## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dufelizardo.visitor-my-app-android) ![GitHub followers](https://img.shields.io/github/followers/dufelizardo.visitor-my-app-android?style=social) <img src="https://img.shields.io/badge/Completed-0%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/> <img src="https://img.shields.io/badge/Software Quality and Automated Testing-Yes-green"/>
 Este projeto faz parte da atividade prática da disciplina de **Teste Mobile** da pós-graduação em Engenharia de Qualidade de Software e Testes Automatizados. O aplicativo **MY APP** é uma aplicação Android criada com o objetivo de praticar e aplicar técnicas de testes automatizados para aplicações móveis.
 
 ## Índice
